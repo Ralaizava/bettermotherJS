@@ -1,3 +1,3 @@
 voici le bettermother avec JS
 
-lien : https://github.com/Ralaizava/bettermotherJS
+lien :  https://ralaizava.github.io/bettermotherJS/
